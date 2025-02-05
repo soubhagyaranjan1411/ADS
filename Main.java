@@ -40,3 +40,10 @@ public class Main {
         c.childmethod2();
     }
 }
+
+//Output
+//This is Soubhagya Class
+//This is Parent Class Method 1
+//This is Parent Class Method 2
+//This is Class Child Method 1
+//This is Class Child Method 2
